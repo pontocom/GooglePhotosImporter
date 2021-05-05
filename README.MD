@@ -1,0 +1,1 @@
+The following project is a simple Python 3 scripta that is used to import image files downloaded from Google Photos backup (in zip format) into the local filesystem of the user, removing any unwanted file and organizing files and diectories.
